@@ -55,6 +55,12 @@ Github: `you likely know it` <br>
 - Active listening
 - Influencing others
 
+## Misc
+- Languages: Kazakh, Russian, English, Turkish
+- Double silver medal winner in National Biology Olympiad
+- Completed Korean Archery course
+- UNIST Model United Nations (MUN) participant
+
 
 <!---
 Qasym/Qasym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
