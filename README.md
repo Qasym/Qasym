@@ -1,9 +1,11 @@
 Full name: `Kasymzhan Abdyldayev` <br>
-Location: `Ulsan, Korea` <br>
+Location: `Seoul, Korea` <br>
 Email: `kasymzhan.abdyldayev@gmail.com` <br>
-Github: `you likely know it` <br>
+Github: `github.com/qasym` <br>
 
 ## Experience
+- Application Developer at **United Associates**, *Oct 2022 - Current*
+  - Just started my work!
 - Research Intern at **Computer Systems Security Lab**, *Mar 2022 - Jun 2022*
   - Collected known vulnerabilities (CVEs) from open source projects
   - Wrote scripts to build those open source projects 
