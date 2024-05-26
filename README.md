@@ -5,7 +5,10 @@ Github: `github.com/qasym` <br>
 
 ## Experience
 - Application Developer at **United Associates**, *Oct 2022 - Current*
-  - Just started my work!
+  - Developed 2 applications, one of which is used by 5000+ users in South Korea
+  - Created a library and integrated it to Unity to reduce the company's expenses
+  - Optimized performance to reduce the load time by 50% and optimized memory usage by 30%
+  - Unity, C#
 - Research Intern at **Computer Systems Security Lab**, *Mar 2022 - Jun 2022*
   - Collected known vulnerabilities (CVEs) from open source projects
   - Wrote scripts to build those open source projects 
