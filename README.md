@@ -26,6 +26,11 @@ Github: `github.com/qasym` <br>
 - Sep 2018 - Jun 2022
 
 ## Projects
+- Task Manager *Sep 2024*
+  - A full-stack Task Manager application
+  - Implemented CRUD operations (Create, Read, Update, Delete) for managing tasks
+  - Utilized Thymeleaf for server-side rendering of dynamic content, enhancing interactivity within HTML views
+  - Spring MVC, Kotlin, HTML, Thymeleaf
 - Pacman game *Feb 2022 - Jun 2022*
   - A popular retro game implementation
   - Implemented main game logic, collision detection, main menu music, monster AI etc.
